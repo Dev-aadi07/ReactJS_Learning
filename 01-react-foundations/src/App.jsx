@@ -31,7 +31,7 @@ const App = () => {
 ]
   return (
     <div className='flex flex-col items-center min-h-screen gap-6'>
-      <h1 className='text-5xl font-semibold'>
+      <h1 flex className='text-5xl font-semibold'>
         Our Developer Team
       </h1>
 
